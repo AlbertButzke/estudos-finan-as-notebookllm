@@ -1,4 +1,4 @@
-# Estudos de finanças notebookllm
+# 1. Contexto e Objetivos
 O intuito desse notebook é estudar sobre métricas de bancos sobre a gestão de risco de crédito e risco de mercado.
 
 Material criado com o notebookLLM do google, afim de compreender métricas iniciais de finanças e bancos:
@@ -7,3 +7,17 @@ Material criado com o notebookLLM do google, afim de compreender métricas inici
 - Exposure at Default (EAD)
 - Value at Risk (VaR) 
 - taxa de inadimplência
+
+ # 2. Curadoria de Fontes
+Insira os links ou os nomes dos 3 a 5 PDFs/textos que você jogou dentro do NotebookLM.
+
+ # 3. Engenharia de Prompts e "Cicatrizes"
+Mostre o seu processo de conversa com a IA. Coloque exemplos de perguntas que você fez, o que funcionou, o que veio errado e como você corrigiu o prompt para obter a resposta ideal.
+
+ # 4. Miniguia de Estudo (Entrega Final)
+ - Resumo: O compilado do que você aprendeu.
+
+ - Glossário: Termos técnicos e seus significados.
+
+ - Prompts Reutilizáveis: Uma lista de comandos prontos para que outra pessoa (ou você no futuro) possa usar para revisar o tema.
+ 
