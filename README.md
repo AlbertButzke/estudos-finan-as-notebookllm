@@ -26,9 +26,11 @@ Iniciei a conversa já definindo a minha base de conhecimento e como eu gostaria
 > Além de entender os cálculos, quero saber o que é cada uma dessas variaveis e como podem ser  usados pelo banco e instituições financeiras.
 
  # 4. Miniguia de Estudo (Entrega Final)
- - Resumo: O compilado do que você aprendeu.
+ ## Resumo: O compilado do que você aprendeu.
 
- - Glossário: Termos técnicos e seus significados.
+ ## Glossário: Termos técnicos e seus significados.
+  1. Default: conhecido popularmente como "calote" ou inadimplência, é o descumprimento das obrigações contratuais de uma dívida.
+  2. Recovery Rate (RR): taxa de recuperação mesmo com a inadimplência.
 
- - Prompts Reutilizáveis: Uma lista de comandos prontos para que outra pessoa (ou você no futuro) possa usar para revisar o tema.
+ ## Prompts Reutilizáveis: Uma lista de comandos prontos para que outra pessoa (ou você no futuro) possa usar para revisar o tema.
  
