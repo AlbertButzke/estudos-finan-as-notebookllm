@@ -17,7 +17,13 @@ Material criado com o notebookLLM do google, afim de compreender métricas inici
  + https://www.abrigo.com/blog/blog-probability-of-default/
 
  # 3. Engenharia de Prompts e "Cicatrizes"
-Mostre o seu processo de conversa com a IA. Coloque exemplos de perguntas que você fez, o que funcionou, o que veio errado e como você corrigiu o prompt para obter a resposta ideal.
+Iniciei a conversa já definindo a minha base de conhecimento e como eu gostaria das respostas:
+
+> Sou iniciante nos estudos de mercado financeiro, bancos e economia, no entanto possuo uma base forte de matemática, estatística e física, pois sou mestrado em cosmologia, então acredito que entendo os conceitos bases para os cálculos e conceitos avançados.
+> 
+> Portanto, gostaria de entender, com base nisso, os cálculos de Probability od Default (PD), Loss Given Default (LGD), Exposure at Default (EAD) e taxa de inadimplência.
+> 
+> Além de entender os cálculos, quero saber o que é cada uma dessas variaveis e como podem ser  usados pelo banco e instituições financeiras.
 
  # 4. Miniguia de Estudo (Entrega Final)
  - Resumo: O compilado do que você aprendeu.
