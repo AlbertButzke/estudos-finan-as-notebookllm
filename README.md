@@ -33,4 +33,9 @@ Iniciei a conversa já definindo a minha base de conhecimento e como eu gostaria
   2. Recovery Rate (RR): taxa de recuperação mesmo com a inadimplência.
 
  ## Prompts Reutilizáveis: Uma lista de comandos prontos para que outra pessoa (ou você no futuro) possa usar para revisar o tema.
+
+ Conte a história de como bancos medem a qualidade de crédito como uma jornada de proteção contra incertezas. Se possível, fale cada uma das métricas usadas por bancos, explicando-as, e mostrando as formulas matemáticas, como EL, UL, PD, LGD, EAD, RR, NPL RATIO, RWA, COVERAGE RATIO E cost of risk.
+- Utilize analogias simples para diferenciar tipos de risco e provisões.
+- Explique como crises econômicas forçam mudanças nessas estratégias de medição.
+- Detalhe a importância dos estágios de risco para definir as provisões bancárias.
  
